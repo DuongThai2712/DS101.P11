@@ -5,9 +5,8 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>Đồ án cuối kì</b></h1>
-
-
+<h1 align="center"><b>ĐỒ ÁN CUỐI KÌ</b></h1>
+<h2 align="center"><b>Tên đề tài: Một số thí nghiệm về xác suất thống kê ứng dụng trong lĩnh vực bóng đá</b></h2>
 
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
